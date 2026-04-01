@@ -1,0 +1,812 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 7 /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2436 >>
+stream
+BT
+/F1 11 Tf
+50 790 Td
+14 TL
+(Week 12 MDQ: Metaverse Technologies, WebAR, and Spatial Experiences \(15 Questions\)) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q1 — Open-Ended: What is the metaverse to you?) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(question_type: open_response) Tj
+T*
+( ) Tj
+T*
+(*Reference: the presentation's real-versus-overhyped metaverse framing*) Tj
+T*
+( ) Tj
+T*
+(The presentation distinguishes between what is already real in today's metaverse landscape) Tj
+T*
+(and what remains overhyped. Before we begin, write one sentence defining what the metaverse) Tj
+T*
+(means to you, and say whether your definition sits closer to the "real" or "overhyped" side) Tj
+T*
+(of that framing.) Tj
+T*
+( ) Tj
+T*
+(Feedback: Overall Feedback: There is no single correct answer here. The goal is to surface) Tj
+T*
+(your current understanding before the later questions sharpen the distinction between what) Tj
+T*
+(is already real and what is still overhyped.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q2 — Core dimensions of immersive experience design \(select all that apply\)) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: presence, agency, and emotion as the core dimensions of immersive design*) Tj
+T*
+( ) Tj
+T*
+(In the context of the kinds of immersive projects highlighted in this presentation, such as) Tj
+T*
+(AR experiences, spatial installations, and metaverse platforms, which elements are framed as) Tj
+T*
+(the three core dimensions of immersive experience design?) Tj
+T*
+( ) Tj
+T*
+(A. Narrative arc) Tj
+T*
+(B. Emotion) Tj
+T*
+(C. Visual fidelity) Tj
+T*
+(D. Presence) Tj
+T*
+(E. Agency) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answers: B, D, E) Tj
+T*
+(Feedback: Overall Feedback: Narrative arc and visual fidelity are legitimate design) Tj
+T*
+(considerations, but they are not the three named dimensions. The presentation explicitly) Tj
+T*
+(frames Presence \(Mel Slater's place and plausibility illusion\), Agency \(meaningful user) Tj
+T*
+(action\), and Emotion \(Murray's concept of transformation\) as the core pillars.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q3 — Applying the three dimensions of immersive design) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: meaningful interaction as an expression of agency in immersive experiences*) Tj
+T*
+( ) Tj
+T*
+(A museum wants to build a VR exhibit on coral reef decline. Users can pick up objects and) Tj
+T*
+(influence the reef's health inside the simulation. Which of the three dimensions of) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2913 >>
+stream
+BT
+/F1 11 Tf
+50 790 Td
+14 TL
+(immersive experience design is *most directly* engaged by that interaction?) Tj
+T*
+( ) Tj
+T*
+(A. Emotion — the experience changes how the user feels about reef conservation) Tj
+T*
+(B. Presence — the user feels physically located in the reef environment) Tj
+T*
+(C. Fidelity — the scene uses photogrammetry scans of real coral) Tj
+T*
+(D. Agency — the user's choices meaningfully shape what happens in the experience) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: D) Tj
+T*
+(Feedback: Overall Feedback: Agency is defined here as making the user more than a passive) Tj
+T*
+(viewer: they shape the experience through meaningful choices and interaction. Presence and) Tj
+T*
+(Emotion are also at play, but the scenario highlights user choice driving outcomes. Fidelity) Tj
+T*
+(is a technical attribute, not one of the three named dimensions.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q4 — Critical lens on tech hype) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: evaluating immersive technologies with a critical lens rather than hype alone*) Tj
+T*
+( ) Tj
+T*
+(The presentation argues that immersive experience design requires a critical lens on tech) Tj
+T*
+(hype. Which scenario best demonstrates this lens?) Tj
+T*
+( ) Tj
+T*
+(A. A team chooses WebAR because it appeared in a trending industry article) Tj
+T*
+(B. A studio ships the highest-polygon environment possible to signal production quality) Tj
+T*
+(C. A designer evaluates a metaverse platform's user engagement data before recommending it) Tj
+T*
+(for a museum partnership) Tj
+T*
+(D. A designer adopts the latest AR SDK because the vendor claims market dominance) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: C) Tj
+T*
+(Feedback: Overall Feedback: The presentation warns that every new technology comes with) Tj
+T*
+(inflated claims, and that designers should separate design value from marketing noise.) Tj
+T*
+(Option C is the only scenario where a designer evaluates evidence before acting. The other) Tj
+T*
+(options follow hype signals rather than design reasoning.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q5 — AR pipeline: what comes next?) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: the AR hardware and software pipeline from concept through user experience*) Tj
+T*
+( ) Tj
+T*
+(A team has finished storyboarding and interaction mapping for a WebAR retail experience.) Tj
+T*
+(According to the AR Hardware and Software Pipeline shown here, what stage should they move) Tj
+T*
+(to next?) Tj
+T*
+( ) Tj
+T*
+(A. 3D Assets and Content — begin modelling, animation, and textures) Tj
+T*
+(B. User Experience — test real-time tracking and feedback immediately) Tj
+T*
+(C. Device Layer — choose the target hardware first) Tj
+T*
+(D. AR Framework — select 8th Wall or WebXR before creating any assets) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: A) Tj
+T*
+(Feedback: Overall Feedback: The pipeline runs from Concept and Design to 3D Assets and) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 2957 >>
+stream
+BT
+/F1 11 Tf
+50 790 Td
+14 TL
+(Content, then AR Framework, Device Layer, and finally User Experience. After storyboarding) Tj
+T*
+(and interaction design, the next step is creating the 3D content that will populate the) Tj
+T*
+(experience. Jumping to framework selection or device targeting before having content skips a) Tj
+T*
+(necessary stage.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q6 — Interaction design across scales \(select all that apply\)) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: the shift from personal-device AR to room-scale spatial experiences*) Tj
+T*
+( ) Tj
+T*
+(A festival wants to turn a personal-device AR treasure hunt into a room-scale projection) Tj
+T*
+(installation. Which design changes suggested here become most important?) Tj
+T*
+( ) Tj
+T*
+(A. Keep the interaction model identical since the content is the same) Tj
+T*
+(B. Shift input from touch and swipe gestures to body movement and proximity) Tj
+T*
+(C. Reduce visual quality to compensate for the larger projection surface) Tj
+T*
+(D. Plan for multi-user, shared social space rather than a single-user private viewport) Tj
+T*
+(E. Extend expected session length from seconds-to-minutes to minutes-to-hours) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answers: B, D, E) Tj
+T*
+(Feedback: Overall Feedback: The key design insight is that the fundamental shift is not just) Tj
+T*
+(input method, but the relationship between user and environment. In personal AR, the user) Tj
+T*
+(controls the frame. In spatial installations, the environment controls the experience.) Tj
+T*
+(Input, social context, and session duration all change. Options A and C misunderstand the) Tj
+T*
+(shift by assuming content portability without design adaptation.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q7 — Why browser-first AR is growing) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: lower-friction access as a driver for WebAR growth*) Tj
+T*
+( ) Tj
+T*
+(The presentation notes that no-download browser-first AR experiences are growing faster than) Tj
+T*
+(app-based AR. Which factor best explains this trend from a design perspective?) Tj
+T*
+( ) Tj
+T*
+(A. Browser AR always delivers higher visual quality than native applications) Tj
+T*
+(B. WebAR eliminates all device compatibility issues automatically) Tj
+T*
+(C. Frictionless access lowers the barrier to entry, expanding the potential audience) Tj
+T*
+(D. One framework now dominates commercial AR so strongly that design choice hardly matters) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: C) Tj
+T*
+(Feedback: Overall Feedback: The growth of WebAR is driven by accessibility and reduced) Tj
+T*
+(friction because users do not need to download anything. This does not mean it is) Tj
+T*
+(technically superior in all dimensions. It means the design trade-off often favours reach) Tj
+T*
+(over richness. The other options overstate WebAR's capabilities or oversimplify the) Tj
+T*
+(ecosystem.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q8 — Blockchain properties for designers) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 2807 >>
+stream
+BT
+/F1 11 Tf
+50 790 Td
+14 TL
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: distributed ledger, immutable records, and smart contracts as design-relevant) Tj
+T*
+(blockchain properties*) Tj
+T*
+( ) Tj
+T*
+(The presentation identifies distributed ledger, immutable records, and smart contracts as) Tj
+T*
+(key blockchain properties. For an immersive gallery designer, which property most directly) Tj
+T*
+(enables proving that a digital artwork is authentic and has a known creator?) Tj
+T*
+( ) Tj
+T*
+(A. Distributed ledger — because no single gatekeeper controls the record) Tj
+T*
+(B. Smart contracts — because they automate ownership transfers) Tj
+T*
+(C. Consensus mechanism — because all network nodes must agree on each transaction) Tj
+T*
+(D. Immutable records — because provenance cannot be altered after creation) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: D) Tj
+T*
+(Feedback: Overall Feedback: The discussion explicitly links immutable records to provenance) Tj
+T*
+(and authenticity for digital creations. While distributed ledgers remove gatekeepers and) Tj
+T*
+(smart contracts automate rules, it is immutability that guarantees a creation's origin story) Tj
+T*
+(cannot be rewritten. Consensus mechanism is a technical implementation detail, not one of) Tj
+T*
+(the three named properties.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q9 — Metaverse: real vs overhyped) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: distinguishing real current metaverse practice from overhyped expectations*) Tj
+T*
+( ) Tj
+T*
+(Which of the following is classified in the presentation as "actually real" rather than) Tj
+T*
+("still overhyped"?) Tj
+T*
+( ) Tj
+T*
+(A. Full interoperability between all metaverse platforms) Tj
+T*
+(B. Enterprise training simulations using spatial computing) Tj
+T*
+(C. One unified metaverse replacing the internet) Tj
+T*
+(D. Mass consumer adoption of metaverse products) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: B) Tj
+T*
+(Feedback: Overall Feedback: The presentation places enterprise training simulations, virtual) Tj
+T*
+(events, spatial computing devices, and digital fashion on the actually real side. Full) Tj
+T*
+(interoperability, a single unified metaverse, and mass consumer adoption remain on the) Tj
+T*
+(overhyped side. This distinction helps designers focus on where real design work is already) Tj
+T*
+(happening.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q10 — Portable identity and social presence \(select all that apply\)) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: portable identity, provenance, and self-expression across immersive platforms*) Tj
+T*
+( ) Tj
+T*
+(A designer is building a multi-platform metaverse experience. Users will move between a VR) Tj
+T*
+(gallery, an AR pop-up event, and a virtual concert hall. Which combination best supports) Tj
+T*
+(social presence across these spaces?) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 3042 >>
+stream
+BT
+/F1 11 Tf
+50 790 Td
+14 TL
+( ) Tj
+T*
+(A. A single wallet address is enough even if each platform resets the avatar, profile, and) Tj
+T*
+(history) Tj
+T*
+(B. Portable identity — avatar, profile, achievements, and digital assets follow the user) Tj
+T*
+(across platforms) Tj
+T*
+(C. Platform-locked accounts — each space has its own separate registration and avatar system) Tj
+T*
+(D. Provenance and authenticity — digital items and contributions can be traced to their) Tj
+T*
+(origin and ownership history) Tj
+T*
+(E. Self-expression — users can present a recognisable identity through persistent avatars,) Tj
+T*
+(assets, and customisation across spaces) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answers: B, D, E) Tj
+T*
+(Feedback: Overall Feedback: The presentation frames portable identity, provenance, and) Tj
+T*
+(self-expression as distinct but related enablers of continuity across spaces. When users) Tj
+T*
+(carry a recognisable identity, a verifiable history, and stable ways to express themselves) Tj
+T*
+(between platforms, social presence is sustained rather than reset at each transition.) Tj
+T*
+(Platform-locked accounts fragment identity, and a wallet address alone is not enough if the) Tj
+T*
+(rest of the social identity is stripped away.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q11 — Token-gated events and social presence) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: token-gated immersive events as a metaverse use case connected to shared) Tj
+T*
+(participation*) Tj
+T*
+( ) Tj
+T*
+(A music festival issues collectible tickets that unlock an AR layer where attendees can see) Tj
+T*
+(who else has access to the same secret stage, leave reactions for one another, and join) Tj
+T*
+(shared mini-challenges during the event. Which immersion-related outcome is most directly) Tj
+T*
+(strengthened by this design?) Tj
+T*
+( ) Tj
+T*
+(A. Presence — the AR visuals automatically feel more physically realistic) Tj
+T*
+(B. Social presence — attendees recognise and interact with other participants as part of the) Tj
+T*
+(same live experience) Tj
+T*
+(C. Reproduction fidelity — the system renders more detailed 3D graphics) Tj
+T*
+(D. Cybersickness reduction — the shared AR layer lowers discomfort) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: B) Tj
+T*
+(Feedback: Overall Feedback: Token-gated immersive events can do more than restrict access.) Tj
+T*
+(When the design makes attendees aware of and able to interact with other participants in the) Tj
+T*
+(same shared experience, it strengthens social presence. The key effect is the sense of being) Tj
+T*
+(with others in a live event space, not improved realism, graphics quality, or comfort.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q12 — Connecting the dots: measuring immersion \(select all that apply\)) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: signals that an immersive experience has worked*) Tj
+T*
+( ) Tj
+T*
+(The presentation asks how immersive projects determine whether an experience worked. Which) Tj
+T*
+(measurement approaches align with the design principles highlighted here?) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 2902 >>
+stream
+BT
+/F1 11 Tf
+50 790 Td
+14 TL
+( ) Tj
+T*
+(A. Download count and app store rating as the primary success metric) Tj
+T*
+(B. Emotional response — did the experience change how the user feels or thinks?) Tj
+T*
+(C. Whether design constraints were treated as creative drivers rather than afterthoughts) Tj
+T*
+(D. Engagement time and user behaviour signals) Tj
+T*
+(E. Visual quality alone as the main indicator of immersive success) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answers: B, C, D) Tj
+T*
+(Feedback: Overall Feedback: Success measurement is framed through engagement time, user) Tj
+T*
+(behaviour, and emotional response, and the presentation positions design constraints as) Tj
+T*
+(creative drivers rather than barriers. App store metrics or visual quality alone miss the) Tj
+T*
+(experiential quality that the module emphasises.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q13 — WebAR constraints as design inputs \(select all that apply\)) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: WebAR barriers and technical constraints that shape design decisions*) Tj
+T*
+( ) Tj
+T*
+(A team is designing a WebAR product visualiser for a furniture retailer. Which constraints) Tj
+T*
+(discussed here should they treat as design inputs from the start?) Tj
+T*
+( ) Tj
+T*
+(A. Unlimited bandwidth, so large assets can be streamed without optimisation) Tj
+T*
+(B. Battery drain during extended AR sessions) Tj
+T*
+(C. Limited computing power on users' mobile devices) Tj
+T*
+(D. Browser fragmentation across iOS Safari, Chrome, and other browsers) Tj
+T*
+(E. Network dependency for loading 3D assets in real time) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answers: B, C, D, E) Tj
+T*
+(Feedback: Overall Feedback: These constraints are stated explicitly. Treating them as design) Tj
+T*
+(inputs from the start, rather than afterthoughts, shapes decisions about asset optimisation,) Tj
+T*
+(progressive loading, cloud offloading, and cross-browser testing. Option A contradicts the) Tj
+T*
+(discussion.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q14 — Spatial installation design) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: audience unpredictability and prototyping in spatial installations*) Tj
+T*
+( ) Tj
+T*
+(When designing a spatial installation, audience unpredictability is presented as a key) Tj
+T*
+(complexity. Which design strategy most directly addresses this?) Tj
+T*
+( ) Tj
+T*
+(A. Sensory Layering — adding audio, lighting, and haptic elements) Tj
+T*
+(B. Prototyping — testing with real users in the actual physical space) Tj
+T*
+(C. Accessibility — ensuring the experience works for diverse abilities) Tj
+T*
+(D. Narrative ARC — designing a structured emotional journey that guides visitors) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: B) Tj
+T*
+(Feedback: Overall Feedback: Audience unpredictability, meaning how real visitors will) Tj
+T*
+(actually behave in the space, is best addressed through prototyping with real users in situ.) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 1671 >>
+stream
+BT
+/F1 11 Tf
+50 790 Td
+14 TL
+(While narrative arc can guide behaviour and sensory layers can shape attention, prototyping) Tj
+T*
+(reveals the gap between expected and actual audience behaviour before the installation goes) Tj
+T*
+(live.) Tj
+T*
+( ) Tj
+T*
+(---) Tj
+T*
+( ) Tj
+T*
+(Q15 — Same methodology, merging realities) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+(*Reference: carrying a consistent methodology across WebAR, spatial installations, and) Tj
+T*
+(metaverse experiences*) Tj
+T*
+( ) Tj
+T*
+(The closing message emphasizes "Same methodology, Merging Realities, Closing the Gap." A) Tj
+T*
+(student is asked to design an experience that starts on a phone \(WebAR\), transitions to a) Tj
+T*
+(room \(spatial installation\), and connects to a virtual world \(metaverse\). According to this) Tj
+T*
+(course's methodology, what should remain constant across all three stages?) Tj
+T*
+( ) Tj
+T*
+(A. The exact same interaction modality, such as touch gestures, at every scale) Tj
+T*
+(B. The polygon count and asset quality targets for every platform) Tj
+T*
+(C. The design-then-evaluate cycle: define stakeholder needs and immersion goals first, then) Tj
+T*
+(implement, then measure outcomes) Tj
+T*
+(D. The specific AR framework and rendering engine used at each stage) Tj
+T*
+( ) Tj
+T*
+(Feedback: Correct Answer: C) Tj
+T*
+(Feedback: Overall Feedback: The conclusion's message is that the methodology, including) Tj
+T*
+(human-centred design, clear experiential goals, and evidence-based evaluation, remains) Tj
+T*
+(constant even as the technology stack, interaction modality, and delivery platform change.) Tj
+T*
+(What persists is the design thinking, not the technical implementation.) Tj
+ET
+endstream
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000019 00000 n 
+0000000068 00000 n 
+0000000165 00000 n 
+0000000235 00000 n 
+0000000367 00000 n 
+0000002855 00000 n 
+0000002987 00000 n 
+0000005952 00000 n 
+0000006084 00000 n 
+0000009093 00000 n 
+0000009227 00000 n 
+0000012087 00000 n 
+0000012221 00000 n 
+0000015316 00000 n 
+0000015450 00000 n 
+0000018405 00000 n 
+0000018539 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+20263
+%%EOF
